@@ -1,0 +1,1 @@
+# ansible_install_1c_postgresql
